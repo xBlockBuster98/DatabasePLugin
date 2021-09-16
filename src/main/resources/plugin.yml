@@ -1,0 +1,7 @@
+name: Database
+version: '${project.version}'
+main: dev.blockbuster.it.database.Database
+api-version: 1.16
+prefix: DatabaseDellaMadonna
+authors: [ xBlockBuster98 ]
+description: Un plugin che si connette con un database MySQL per conservare informazoni
